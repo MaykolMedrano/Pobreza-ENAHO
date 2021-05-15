@@ -1,5 +1,5 @@
 # Pobreza ENAHO
-Modulo para importar datos en STATA del Portal de Transparencia Económica del MEF (Consulta Amigable)
+Script para medición de la pobreza en el Perú
 
 ## Metodología utilizada por el Instituto Nacional de Estadística e Informática en la medición de la pobreza
 
@@ -29,4 +29,4 @@ Todas las modalidades de adquisición del gasto fueron incluidas, entre ellas te
 - Donado por instituciones
 - Donado por hogares
 
-Más información en [a link](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/pobreza2020/Pobreza2020.pdf?fbclid=IwAR3QnuDpN4JY4ALIpoRvFLpiHiUmxjjBQHm79YplmfI50UFnh2NrvmggVj0)
+Más información en el siguiente [enlace](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/pobreza2020/Pobreza2020.pdf?fbclid=IwAR3QnuDpN4JY4ALIpoRvFLpiHiUmxjjBQHm79YplmfI50UFnh2NrvmggVj0)

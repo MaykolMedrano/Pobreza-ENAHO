@@ -28,3 +28,5 @@ Todas las modalidades de adquisición del gasto fueron incluidas, entre ellas te
 - Pago en especie
 - Donado por instituciones
 - Donado por hogares
+
+Más información en [a link](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/pobreza2020/Pobreza2020.pdf?fbclid=IwAR3QnuDpN4JY4ALIpoRvFLpiHiUmxjjBQHm79YplmfI50UFnh2NrvmggVj0)
